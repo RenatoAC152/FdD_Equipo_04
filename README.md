@@ -31,7 +31,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Aaron Machco** | 👑Líder del equipo | 🌱Innovación social, ♻️sostenibilidad |
+| <img width="90" alt="WhatsApp Image 2026-08-19 at 11 54 13 AM" src="https://github.com/user-attachments/assets/29c1da5e-a2c0-459c-8727-0f9fba9a009e" />
+ | **Aaron Machco** | 👑Líder del equipo | 🌱Innovación social, ♻️sostenibilidad |
 | <img width="90" alt="WhatsApp Image 2026-08-19 at 11 27 20" src="https://github.com/user-attachments/assets/5e1b6cd9-9d45-47a0-b721-557b04a28107" /> | **Sebastián Barzola Anglas** | 📊Responsable de investigación | 🌍Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Renato Alarcón** | 🎨Diseñador/a | 🧩Diseño de prototipos, creatividad aplicada |
 | <img width="90" alt="WhatsApp Image 2026-08-19 at 11 56 09 AM" src="https://github.com/user-attachments/assets/f8ee855e-bdea-4420-86ee-41373e76fefb" />| **Cortez Dominguez Jherson** | 💻Programador | 👩‍💻Programación y análisis |
