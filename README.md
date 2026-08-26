@@ -10,11 +10,32 @@
 Somos el **Equipo 04** del curso **Fundamentos de diseño 2026-II**, conformado por estudiantes de la carrera de Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
+## ODS Seleccionadas
+Como equipo trabajaremos con tres ODS de forma conjunta: una principal y dos secundarias, que en conjunto nos dan el marco para abordar la problemática descrita más abajo.
 
-- ODS 7: Energía asequible y no contaminable
-- ODS 9: Industria, Innovación e Infraestructura
-- ODS 12: Producción y consumos responsables  
+### ODS Principal: ODS 9 — Industria, Innovación e Infraestructura
+**Descripción General**
+El ODS 9 se enfoca en construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible, y fomentar la innovación tecnológica. Es un pilar fundamental para encontrar soluciones duraderas a los desafíos económicos y ambientales, facilitando la integración del desarrollo tecnológico dentro de los procesos industriales tradicionales.
+ 
+**Meta Específica**
+**Meta 9.4:** De aquí a 2030, modernizar la infraestructura y reconfigurar las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales.
+
+### ODS Secundaria: ODS 11 — Ciudades y Comunidades Sostenibles
+**Descripción General**
+El ODS 11 busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, mejorando el acceso a vivienda, transporte, servicios básicos y espacios públicos, al tiempo que se reduce el impacto ambiental de las zonas urbanas e industriales.
+
+### ODS Secundaria: ODS 12 — Producción y Consumo Responsables
+**Descripción General**
+El ODS 12 tiene como objetivo garantizar modalidades de consumo y producción sostenibles, promoviendo el uso eficiente de los recursos naturales, la reducción de desperdicios mediante prevención, reducción, reciclado y reutilización, y la adopción de prácticas empresariales sostenibles.
+
+## Problemática
+Esta es la problemática central que el proyecto busca combatir, abordada desde el marco conjunto de las tres ODS seleccionadas (industria e innovación, ciudades sostenibles, y producción y consumo responsables).
+ 
+**Tema:** Ineficiencia y falta de monitoreo automatizado de recursos en la pequeña y mediana industria.
+**Descripción del problema:**
+Actualmente, muchas empresas del sector industrial operan con pérdidas significativas de energía y recursos materiales porque dependen de procesos de control manuales, supervisión visual u hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real en la línea de producción genera "puntos ciegos" operativos.
+ 
+Desde la perspectiva de la ingeniería industrial, esto impide aplicar principios de optimización y mejora continua. Desde la perspectiva de la ingeniería informática, el problema radica en la brecha tecnológica y la ausencia de infraestructura de red (como sensores IoT o bases de datos interconectadas) en las fábricas. Nuestro enfoque durante el curso será investigar y delimitar cómo esta desconexión de datos y falta de automatización limita la eficiencia operativa y genera mermas en los procesos de manufactura.
 
 ---
 
