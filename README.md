@@ -17,28 +17,37 @@ Como equipo trabajaremos con tres ODS de forma conjunta: una principal y dos sec
 
 **Descripción General:**
 El ODS 9 se enfoca en construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible, y fomentar la innovación tecnológica. Es un pilar fundamental para encontrar soluciones duraderas a los desafíos económicos y ambientales, facilitando la integración del desarrollo tecnológico dentro de los procesos industriales tradicionales.
+
+<img src="/Recursos/Imágenes/ods9.gif" width="90"/>
  
 **Meta Específica**
 
-**Meta 9.4:** De aquí a 2030, modernizar la infraestructura y reconfigurar las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales.
+**Meta 9.4:** 
+> De aquí a 2030, modernizar la infraestructura y reconfigurar las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales.
 
 ### ODS Secundaria: ODS 11 — Ciudades y Comunidades Sostenibles
 
 **Descripción General:**
 El ODS 11 busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, mejorando el acceso a vivienda, transporte, servicios básicos y espacios públicos, al tiempo que se reduce el impacto ambiental de las zonas urbanas e industriales.
 
+<img src="/Recursos/Imágenes/ods11.gif" width="90"/>
+
 **Meta Específica**
  
-**Meta 11.6:** De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, incluso prestando especial atención a la calidad del aire y la gestión de los desechos municipales y de otro tipo.
+**Meta 11.6:** 
+> De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, incluso prestando especial atención a la calidad del aire y la gestión de los desechos municipales y de otro tipo.
 
 ### ODS Secundaria: ODS 12 — Producción y Consumo Responsables
 
 **Descripción General:**
 El ODS 12 tiene como objetivo garantizar modalidades de consumo y producción sostenibles, promoviendo el uso eficiente de los recursos naturales, la reducción de desperdicios mediante prevención, reducción, reciclado y reutilización, y la adopción de prácticas empresariales sostenibles.
 
+<img src="/Recursos/Imágenes/ods12.gif" width="90"/>
+
 **Meta Específica**
  
-**Meta 12.2:** De aquí a 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales.
+**Meta 12.2:** 
+> De aquí a 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales.
 
 ---
 ## Problemática
