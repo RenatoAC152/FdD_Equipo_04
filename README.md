@@ -47,7 +47,7 @@ El ODS 12 tiene como objetivo garantizar modalidades de consumo y producción so
 ## ⚠️Problemática
 Esta es la problemática central que el proyecto busca combatir, abordada desde el marco conjunto de las tres ODS seleccionadas (industria e innovación, ciudades sostenibles, y producción y consumo responsables).
  
-**🏷️Tema:** Ineficiencia y falta de monitoreo automatizado de recursos en la pequeña y mediana industria de supermercados.
+**🏷️Tema:** Ineficiencia y falta de monitoreo automatizado de mermas en el sector retail alimentario (supermercados y minimarkets).
 
 **🔍Descripción del problema:**
 
