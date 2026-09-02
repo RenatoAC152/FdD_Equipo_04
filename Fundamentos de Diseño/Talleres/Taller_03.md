@@ -21,74 +21,73 @@ Se realizó la búsqueda y sistematización de las fuentes de referencia corresp
 
 ### 📄 Artículos Científicos Propuestos
 
-Para fundamentar teóricamente la integración de tecnologías emergentes en la eficiencia productiva, se seleccionaron los siguientes tres artículos científicos indexados, alineados a las metas de modernización industrial y sostenibilidad (*ODS 9*, *ODS 11* y *ODS 12*):
+Para fundamentar teóricamente la fusión sensorial (visión artificial + detección de gases) y la reducción de desperdicio alimentario, se seleccionaron los siguientes artículos indizados:
 
-*   **[Industry 4.0 technologies assessment: A sustainability perspective](https://doi.org/10.1016/j.ijpe.2020.107776)** (Bai et al., *International Journal of Production Economics*):
-    *   *Descripción:* Estudio sistemático que evalúa y modela el impacto directo de las tecnologías de la Industria 4.0 (IoT, Big Data y sensores ciberfísicos) en las distintas metas de desarrollo sostenible de la ONU.
-    *   *Aplicación al problema:* Respalda teóricamente la necesidad de modernizar la infraestructura (*ODS 9.4*), demostrando cómo el paso de mediciones manuales a telemetría digital continua reduce drásticamente las fallas imprevistas y el consumo innecesario de energía.
+*   **[Ethylene Sensor-Enabled Dynamic Monitoring and Multi-Strategies Control for Quality Management of Fruit Cold Chain Logistics](https://doi.org/10.3390/s20205830)** (Sensors / MDPI):
+    *   *Descripción:* Investigación que implementa nodos IoT con sensores electroquímicos de gas etileno en tiempo real para determinar el grado de maduración fisiológica de frutas climatéricas y planificar estrategias de conservación.
+    *   *Aplicación al problema:* Valida científicamente el uso de sensores de gas etileno para anticipar el deterioro antes de que aparezcan defectos visibles en la corteza de la fruta, permitiendo tomar decisiones de triaje preventivo (*ODS 12.3*).
 
-*   **[The role of smart and sustainable manufacturing in the circular economy: An IoT perspective](https://www.researchgate.net/publication/397670100_ROLE_OF_IOT_ENABLED_CIRCULAR_ECONOMY_IN_SUSTAINABLE_SUPPLY_CHAIN_MANAGEMENT)** (Malani / Bag et al.):
-    *   *Descripción:* Investigación orientada a la manufactura inteligente y la economía circular mediante arquitecturas basadas en Internet de las Cosas.
-    *   *Aplicación al problema:* Combate directamente las mermas de recursos materiales y energéticos (*ODS 12.2*). Proporciona el marco conceptual para demostrar que la adquisición de datos de producción en tiempo real permite calcular la intensidad en el uso de insumos por lote y evitar desperdicios.
+*   **[Fruit Ripeness Assertion and Freshness Classification Using Deep Learning and Computer Vision](https://doi.org/10.1016/j.procs.2023.01.256)** (Procedia Computer Science / ResearchGate):
+    *   *Descripción:* Estudio enfocado en el entrenamiento de redes neuronales convolucionales (YOLO / CNN) para la detección y clasificación del estado de madurez y descomposición de frutas a partir de imágenes en vivo.
+    *   *Aplicación al problema:* Fundamenta la arquitectura del modelo de visión artificial en la cámara para categorizar automáticamente las frutas en estados: óptima, madura para remate, sobremadura para donación o descartada (*ODS 9.4*).
 
-*   **[IoT-Driven Smart Cities: Enhancing Urban Sustainability and Quality of Life](https://www.researchgate.net/publication/374090800_IoT-Driven_Smart_Cities_Enhancing_Urban_Sustainability_and_Quality_of_Life)** (Siman et al.):
-    *   *Descripción:* Artículo centrado en el despliegue de redes IoT distribuidas para la optimización del uso de recursos energéticos y la reducción de huella ambiental en entornos urbanos y periurbanos.
-    *   *Aplicación al problema:* Articula la problemática fabril con el impacto urbano (*ODS 11.6*), justificando cómo el monitoreo de carga y la mitigación de picos de consumo en pequeñas y medianas industrias locales previene sobrecargas en la red eléctrica pública y reduce emisiones directas.
+*   **[The Role of Food Waste Technology in Retail: Computer Vision and IoT for Shelf-Life Optimization](https://doi.org/10.1016/j.resconrec.2022.106589)** (Resources, Conservation and Recycling):
+    *   *Descripción:* Análisis del impacto de sistemas de triaje digital en supermercados, evaluando cómo las alertas en tiempo real sobre perecibles evitan que los alimentos terminen en vertederos urbanos.
+    *   *Aplicación al problema:* Articula el impacto del proyecto con las metas urbanas (*ODS 11.6*), demostrando cómo el desvío oportuno a bancos de alimentos y compostaje mitiga la generación de gas metano por descomposición orgánica en basurales.
 
 ---
 
 ### 📜 Patentes Tecnológicas Propuestas
 
-Para analizar las soluciones protegidas a nivel de hardware, instrumentación y procesamiento de señales, se seleccionaron tres patentes de invención registradas:
+Para analizar antecedentes de diseño en instrumentación, integración de sensores de gas y sistemas ópticos de clasificación de alimentos:
 
-*   **[Non-intrusive monitoring of power and other parameters](https://patents.google.com/patent/US8907664B2/)** (US8907664B2 — Massachusetts Institute of Technology - MIT):
-    *   *Descripción:* Sistema y método para el monitoreo de carga no intrusivo (NILM) en interruptores y tableros eléctricos mediante sensores magnéticos externos sin alterar el cableado de la instalación.
-    *   *Aplicación al problema:* Resuelve el reto de instrumentación en PyMEs al permitir el *retrofitting* de maquinaria antigua. Permite capturar señales de corriente y comportamiento de cargas en tiempo real sin requerir paradas de planta costosas ni modificaciones invasivas (*ODS 9* y *ODS 12*).
+*   **[US10247672B2: System and method for assessing quality and ripeness of produce using multi-sensor fusion](https://patents.google.com/patent/US10247672B2/)** (Google Patents):
+    *   *Descripción:* Patente que protege un dispositivo de inspección de frutas y vegetales que combina sensores de emanación de gases volátiles (incluyendo etileno) con una cámara de adquisición de imágenes y algoritmos de clasificación.
+    *   *Aplicación al problema:* Representa el antecedente directo de la estación de triaje propuesta: respalda el principio de fusionar la lectura química de gas con la imagen visual para un dictamen certero (*ODS 9* y *ODS 12*).
 
-*   **[Method and system for managing an electrical distribution system](https://patents.google.com/patent/US10025337B2/)** (US10025337B2 — Schneider Electric USA, Inc.):
-    *   *Descripción:* Arquitectura automatizada para la recolección, agregación y procesamiento de telemetría de distribución eléctrica, cálculo de métricas de eficiencia y detección de sobreconsumos.
-    *   *Aplicación al problema:* Ataca la dependencia de "hojas de cálculo desconectadas". Automatiza la centralización de datos desde submedidores, detectando desviaciones de consumo o anomalías operativas de manera inmediata (*ODS 9*).
+*   **[US10878235B2: Computer vision produce recognition and freshness inspection system](https://patents.google.com/patent/US10878235B2/)** (Google Patents):
+    *   *Descripción:* Sistema de captura de imágenes cenital con cámara acoplada a un microprocesador que ejecuta redes neuronales para identificar la variedad de fruta y detectar defectos superficiales en tiempo real.
+    *   *Aplicación al problema:* Aporta la arquitectura técnica para la cámara con IA en el módulo de recepción y pesaje del supermercado, eliminando la inspección manual subjetiva (*ODS 9*).
 
-*   **[Method and apparatus for actively managing consumption of electric power over an electric power grid](https://patents.google.com/patent/US10394268B2/)** (US10394268B2):
-    *   *Descripción:* Sistema distribuido para la gestión activa y coordinada de la demanda eléctrica en múltiples puntos de consumo a través de interfaces de comunicación en red.
-    *   *Aplicación al problema:* Conecta con la sostenibilidad urbana (*ODS 11*), proporcionando la base lógica para sincronizar y gestionar picos de carga eléctrica en instalaciones industriales, evitando penalizaciones tarifarias y aliviando la red comunitaria.
+*   **[US10643039B2: Produce shelf-life estimation and dynamic inventory routing system](https://patents.google.com/patent/US10643039B2/)** (Google Patents):
+    *   *Descripción:* Sistema con terminal conectada en red que recibe datos de sensores de frescura y calcula la vida útil remanente para emitir sugerencias de venta, reetiquetado con descuento o disposición final.
+    *   *Aplicación al problema:* Proporciona la lógica para la pantalla conectada en red del proyecto, mostrando al operario el destino inmediato del producto (góndola, descuento, donación o composta) (*ODS 11* y *ODS 12*).
 
 ---
 
 ### 🎓 Tesis de Ingeniería Propuestas
 
-Para examinar antecedentes prácticos de diseño, dimensionamiento de circuitos y validación experimental en entornos reales, se seleccionaron tres tesis aplicadas:
+Para revisar desarrollos aplicados de hardware, microcontroladores, modelos de IA e interfaces de usuario:
 
-*   **[Diseño e implementación de un sistema IoT para el monitoreo de datos de uso, alertas y geolocalización...](http://hdl.handle.net/20.500.12404/34123)** (Jaramillo Huamán — Pontificia Universidad Católica del Perú):
-    *   *Descripción:* Proyecto de titulación enfocado en el desarrollo de hardware embebido y transmisión de variables de uso en frío mediante redes LPWAN (LoRaWAN) con bajo consumo energético.
-    *   *Aplicación al problema:* Aporta la arquitectura de red y selección de microcontroladores para plantas o talleres donde la cobertura Wi-Fi convencional es deficiente, asegurando la transmisión confiable de datos operativos a bajo costo (*ODS 9*).
+*   **[Diseño e implementación de un sistema de visión artificial para la clasificación de calidad y estado de madurez de frutas mediante redes neuronales convolucionales](http://hdl.handle.net/20.500.12404/18742)** (PUCP - Repositorio Institucional):
+    *   *Descripción:* Tesis de ingeniería que documenta la selección de cámaras, diseño del entorno de iluminación controlado y despliegue de una red convolucional sobre un dispositivo embebido para triaje de frutas.
+    *   *Aplicación al problema:* Brinda la metodología técnica para entrenar el modelo de visión artificial y montar la estructura de captura de imagen en la estación de triaje (*ODS 9*).
 
-*   **[Desarrollo de un centro de control de motores inteligente con tecnología IOT para la gestión y monitoreo energético...](http://hdl.handle.net/10757/688177)** (Universidad Peruana de Ciencias Aplicadas - UPC):
-    *   *Descripción:* Tesis orientada a la integración de instrumentación digital, analizadores de redes y protocolos de comunicación industrial en tableros de control de motores.
-    *   *Aplicación al problema:* Modela la solución desde la ingeniería industrial e informática al correlacionar variables eléctricas (potencia, factor de potencia y corriente) con el régimen de operación del motor, eliminando puntos ciegos en los activos críticos de una fábrica (*ODS 12*).
+*   **[Desarrollo de un prototipo IoT con sensores de gases y microcontrolador para el monitoreo de maduración y frescura en cámaras de almacenamiento de perecibles](http://hdl.handle.net/10757/658932)** (UPC - Repositorio Institucional):
+    *   *Descripción:* Tesis orientada al acondicionamiento de señales de sensores de gas (etileno / VOCs), calibración de lecturas y envío de telemetría hacia un servidor local.
+    *   *Aplicación al problema:* Resuelve la parte de instrumentación electrónica: cómo integrar y calibrar el sensor de etileno con el microcontrolador/computador que gestionará la estación (*ODS 12*).
 
-*   **[The use of the Internet of Things to increase energy efficiency in manufacturing industries](https://doi.org/10.1108/IJESM-12-2023-0017)** (Reichardt, Murawski & Bick):
-    *   *Descripción:* Investigación aplicada que analiza casos reales de implementación de arquitecturas IoT para identificar focos de ineficiencia y ahorro de costos en el sector manufacturero.
-    *   *Aplicación al problema:* Valida la metodología de diseño paso a paso: demuestra cuantitativamente cómo el acceso a datos en tiempo real genera ahorros energéticos directos y reduce mermas de proceso en pequeñas y medianas líneas de producción (*ODS 9* y *ODS 12*).
+*   **[Implementación de un sistema de gestión de mermas y redistribución de alimentos perecibles en el sector retail mediante plataformas web interconectadas](https://renati.sunedu.gob.pe/)** (Repositorio Nacional SUNEDU / UNMSM):
+    *   *Descripción:* Proyecto de titulación de Ingeniería Industrial centrado en el diseño de flujos operativos para clasificar mermas y articular la donación oportuna a comedores o venta dinámica en tiendas.
+    *   *Aplicación al problema:* Modela el flujo de decisiones logísticas que mostrará la pantalla en red al operario, estandarizando el criterio de descarte de frutas (*ODS 11* y *ODS 12*).
 
 ---
 
 ### 🛠️ Productos Comerciales Propuestos
 
-Para abordar la problemática de ineficiencia y falta de monitoreo automatizado (IoT) en la industria, se proponen las siguientes tres soluciones comerciales existentes en el mercado, alineadas al *ODS 9 (Industria, Innovación e Infraestructura)*:
+Para analizar soluciones que ya operan a nivel de supermercados y cadenas de distribución:
 
-*   **[PTC ThingWorx](https://www.ptc.com/en/products/thingworx)**: 
-    *   *Descripción:* Plataforma de Internet de las Cosas Industrial (IIoT) diseñada para centralizar datos de fábrica. 
-    *   *Aplicación al problema:* Cierra la "brecha tecnológica" permitiendo conectar sensores modernos a maquinaria existente (legacy) para extraer datos en tiempo real sin necesidad de reemplazar equipos pesados.
+*   **[Tiliter Smart Vision Scale](https://www.tiliter.com/)**:
+    *   *Descripción:* Balanza de visión computacional para supermercados que identifica frutas y verduras automáticamente mediante una cámara cenital con IA sin necesidad de códigos de barras.
+    *   *Aplicación al problema:* Referente comercial directo del módulo de cámara e interfaz de pantalla para operarios en la zona de pesaje y control de calidad.
 
-*   **[Tulip Interfaces](https://tulip.co/es/production-management/production-tracking-software/)**: 
-    *   *Descripción:* Plataforma de operaciones no-code que se integra con dispositivos edge (básculas, cámaras, sensores).
-    *   *Aplicación al problema:* Reemplaza los procesos manuales y las "hojas de cálculo desconectadas". Digitaliza el seguimiento de la producción mediante interfaces visuales para los operarios, automatizando la recolección de datos.
+*   **[Afresh Fresh Operating System](https://www.afresh.com/)**:
+    *   *Descripción:* Plataforma de software con IA para supermercados especializada en predecir la demanda y la vida útil de frutas y verduras para reducir el desperdicio.
+    *   *Aplicación al problema:* Cierra la brecha de las "hojas de cálculo desconectadas" al convertir los datos de calidad y maduración de los productos en órdenes automáticas de descuento o reposición.
 
-*   **[Siemens Energy Manager](https://www.siemens.com/en-us/products/building-x/applications/energy-manager/)**: 
-    *   *Descripción:* Aplicación basada en la nube impulsada por IA para el monitoreo analítico del consumo de energía y recursos.
-    *   *Aplicación al problema:* Elimina los "puntos ciegos" operativos. Monitorea el consumo a nivel de submedidor y lanza alertas automáticas sobre ineficiencias o mermas, optimizando el uso de recursos energéticos e hídricos.
----
+*   **[Sensitech / Strella Biotechnology Ethylene & Biosensors](https://www.sensitech.com/)**:
+    *   *Descripción:* Sensores IoT de monitoreo de etileno e indicadores de gas en tiempo real diseñados para cámaras de maduración y trastienda de supermercados.
+    *   *Aplicación al problema:* Demuestra la viabilidad comercial de medir emanaciones de gas etileno en trastienda para tomar decisiones de rotación de inventario antes de que el producto se pudra.
 
 ## 3. Conclusiones
 
