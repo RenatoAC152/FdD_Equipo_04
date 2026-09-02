@@ -1,4 +1,4 @@
-# Entregable 2: Avance del proyecto
+# Taller 03: Revisión Bibliográfica
 
 ## 1. Introducción y Objetivos
 
