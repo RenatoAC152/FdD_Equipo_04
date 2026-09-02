@@ -51,7 +51,7 @@ Esta es la problemática central que el proyecto busca combatir, abordada desde 
 
 **🔍Descripción del problema:**
 
-Actualmente, el sector de los supermercados opera con pérdidas significativas de recursos materiales (merma de alimentos) porque sus procesos de descarte dependen de control manual, supervisión visual no estandarizada y registros en hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real sobre el estado de los alimentos genera "puntos ciegos" operativos.
+Actualmente, el sector de los supermercados opera con pérdidas significativas de recursos materiales (merma de alimentos, en especial con frutas y verduras) porque sus procesos de descarte dependen de control manual, supervisión visual no estandarizada y registros en hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real sobre el estado de los alimentos genera "puntos ciegos" operativos.
 
 ​Desde la ingeniería industrial, esto impide aplicar mejoras continuas, como la redistribución eficiente de alimentos próximos a caducar. Desde la ingeniería informática, el problema radica en la ausencia de infraestructura IoT en las zonas de almacén. Nuestro enfoque será implementar una Estación IoT de Triaje que elimine esta desconexión de datos mediante visión artificial, automatizando la clasificación de mermas para reducir el desperdicio y alinearse con los ODS 9, 11 y 12.
 
