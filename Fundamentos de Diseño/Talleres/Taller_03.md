@@ -101,4 +101,4 @@ Para abordar la problemática de ineficiencia y falta de monitoreo automatizado 
 ## 4. Anexos / Enlaces de Referencia
 
 * Repositorio de trabajo y referencias bibliográficas del equipo:  
-  `https://docs.google.com/document/d/1d6bb2DT5UL9tqzVOKo718GHyI4YDIDvgp03kzmWdJmY/edit?tab=t.0`
+  `https://docs.google.com/document/d/1d6bb2DT5UL9tqzVOKo718GHyI4YDIDvgp03kzmWdJmY/edit?usp=sharing`
