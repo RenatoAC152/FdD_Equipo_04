@@ -53,11 +53,6 @@ Para analizar las soluciones protegidas a nivel de hardware, instrumentación y 
     *   *Descripción:* Sistema distribuido para la gestión activa y coordinada de la demanda eléctrica en múltiples puntos de consumo a través de interfaces de comunicación en red.
     *   *Aplicación al problema:* Conecta con la sostenibilidad urbana (*ODS 11*), proporcionando la base lógica para sincronizar y gestionar picos de carga eléctrica en instalaciones industriales, evitando penalizaciones tarifarias y aliviando la red comunitaria.
 
-* **3 Tesis:**
-  1. *Diseño e implementación de un sistema IoT para el monitoreo de datos de uso, alertas y geolocalización en refrigeradores para ventas de una empresa de lácteos usando la red LPWAN LoRaWAN* (Jaramillo Huamán — PUCP).
-  2. *Desarrollo de un centro de control de motores inteligente con tecnología IOT para la gestión y monitoreo energético basado en tecnología Siemens* (UPC).
-  3. *The use of the Internet of Things to increase energy efficiency in manufacturing industries* (Reichardt, Murawski & Bick).
-
 ---
 
 ### 🎓 Tesis de Ingeniería Propuestas
