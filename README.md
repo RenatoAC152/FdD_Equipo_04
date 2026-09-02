@@ -47,13 +47,13 @@ El ODS 12 tiene como objetivo garantizar modalidades de consumo y producción so
 ## ⚠️Problemática
 Esta es la problemática central que el proyecto busca combatir, abordada desde el marco conjunto de las tres ODS seleccionadas (industria e innovación, ciudades sostenibles, y producción y consumo responsables).
  
-**🏷️Tema:** Ineficiencia y falta de monitoreo automatizado de recursos en la pequeña y mediana industria.
+**🏷️Tema:** Ineficiencia y falta de monitoreo automatizado de recursos en la pequeña y mediana industria de supermercados.
 
 **🔍Descripción del problema:**
 
-Actualmente, muchas empresas del sector industrial operan con pérdidas significativas de energía y recursos materiales porque dependen de procesos de control manuales, supervisión visual u hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real en la línea de producción genera "puntos ciegos" operativos.
- 
-Desde la perspectiva de la ingeniería industrial, esto impide aplicar principios de optimización y mejora continua. Desde la perspectiva de la ingeniería informática, el problema radica en la brecha tecnológica y la ausencia de infraestructura de red (como sensores IoT o bases de datos interconectadas) en las fábricas. Nuestro enfoque durante el curso será investigar y delimitar cómo esta desconexión de datos y falta de automatización limita la eficiencia operativa y genera mermas en los procesos de manufactura.
+Actualmente, el sector de los supermercados opera con pérdidas significativas de recursos materiales (merma de alimentos) porque sus procesos de descarte dependen de control manual, supervisión visual no estandarizada y registros en hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real sobre el estado de los alimentos genera "puntos ciegos" operativos.
+
+​Desde la ingeniería industrial, esto impide aplicar mejoras continuas, como la redistribución eficiente de alimentos próximos a caducar. Desde la ingeniería informática, el problema radica en la ausencia de infraestructura IoT en las zonas de almacén. Nuestro enfoque será implementar una Estación IoT de Triaje que elimine esta desconexión de datos mediante visión artificial, automatizando la clasificación de mermas para reducir el desperdicio y alinearse con los ODS 9, 11 y 12.
 
 ---
 
