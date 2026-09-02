@@ -51,9 +51,11 @@ Esta es la problemática central que el proyecto busca combatir, abordada desde 
 
 **🔍Descripción del problema:**
 
-Actualmente, el sector de los supermercados opera con pérdidas significativas de recursos materiales (merma de alimentos, en especial con frutas y verduras) porque sus procesos de descarte dependen de control manual, supervisión visual no estandarizada y registros en hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real sobre el estado de los alimentos genera "puntos ciegos" operativos.
+Actualmente, el sector de los supermercados opera con pérdidas significativas de recursos materiales, principalmente en la categoría de frutas y verduras, debido a que sus procesos de selección y descarte dependen de control manual, supervisión visual subjetiva y registros en hojas de cálculo desconectadas. La falta de recolección de datos en tiempo real sobre el estado de conservación de estos productos orgánicos genera "puntos ciegos" operativos.
 
-​Desde la ingeniería industrial, esto impide aplicar mejoras continuas, como la redistribución eficiente de alimentos próximos a caducar. Desde la ingeniería informática, el problema radica en la ausencia de infraestructura IoT en las zonas de almacén. Nuestro enfoque será implementar una Estación IoT de Triaje que elimine esta desconexión de datos mediante visión artificial, automatizando la clasificación de mermas para reducir el desperdicio y alinearse con los ODS 9, 11 y 12.
+​Desde la ingeniería industrial, la falta de un criterio estandarizado para evaluar la calidad de las frutas y verduras impide aplicar principios de optimización y mejora continua, como la redistribución eficiente o el remate oportuno de alimentos próximos a caducar. Desde la ingeniería informática, el problema radica en la brecha tecnológica y la ausencia de infraestructura IoT con modelos de Inteligencia Artificial (IA) integrados en la zona de almacenamiento y descarte.
+
+​Nuestro enfoque será implementar una Estación IoT de Triaje que elimine esta desconexión de datos mediante reconocimiento de imágenes con IA y visión artificial. Este sistema analizará con alta precisión el estado de maduración, manchas o deterioro físico en frutas y verduras específicas, determinando de manera automatizada y objetiva el descarte u homologación del producto (venta con descuento, donación o composta). Con esto, se generarán métricas en tiempo real para reducir la merma y alinearse con los ODS 9, 11 y 12.
 
 ---
 
