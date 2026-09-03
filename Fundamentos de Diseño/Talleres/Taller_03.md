@@ -31,9 +31,9 @@ Para fundamentar teóricamente la fusión sensorial (visión artificial + detecc
     *   *Descripción:* Estudio enfocado en el entrenamiento de redes neuronales convolucionales (YOLO / CNN) para la detección y clasificación del estado de madurez y descomposición de frutas a partir de imágenes en vivo.
     *   *Aplicación al problema:* Fundamenta la arquitectura del modelo de visión artificial en la cámara para categorizar automáticamente las frutas en estados: óptima, madura para remate, sobremadura para donación o descartada (*ODS 9.4*).
 
-*   **[The Role of Food Waste Technology in Retail: Computer Vision and IoT for Shelf-Life Optimization](https://doi.org/10.1016/j.resconrec.2022.106589)** (Resources, Conservation and Recycling):
-    *   *Descripción:* Análisis del impacto de sistemas de triaje digital en supermercados, evaluando cómo las alertas en tiempo real sobre perecibles evitan que los alimentos terminen en vertederos urbanos.
-    *   *Aplicación al problema:* Articula el impacto del proyecto con las metas urbanas (*ODS 11.6*), demostrando cómo el desvío oportuno a bancos de alimentos y compostaje mitiga la generación de gas metano por descomposición orgánica en basurales.
+*   **[Retail food waste: Mapping causes and reduction practices](https://doi.org/10.1016/j.jclepro.2020.120124)** (Journal of Cleaner Production / Elsevier):
+    *   *Descripción:* Estudio empírico que mapea las causas operativas de desperdicio de frutas y vegetales en supermercados y analiza prácticas de prevención basadas en tecnología y revalorización.
+    *   *Aplicación al problema:* Demuestra que estandarizar el criterio de descarte y canalizar el excedente mediante decisiones en tiempo real evita que los perecibles terminen en rellenos sanitarios de las ciudades (ODS 11.6 y ODS 12.3).
 
 ---
 
