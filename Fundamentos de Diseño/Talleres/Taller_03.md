@@ -73,27 +73,21 @@ Para revisar desarrollos aplicados de hardware, microcontroladores, modelos de I
 
 ---
 
-### 🛠️ Productos Comerciales Propuestos
+#### 🛠️ Productos Comerciales Propuestos
 
-Para analizar soluciones que ya operan a nivel de supermercados y cadenas de distribución:
+Para abordar la problemática de ineficiencia y falta de monitoreo automatizado en el triaje de perecibles, se analizaron tres soluciones comerciales consolidadas en el mercado internacional, alineadas a las metas de modernización y reducción de desperdicios (*ODS 9*, *ODS 11* y *ODS 12*):
 
-*   **[Tiliter Smart Vision Scale](https://www.tiliter.com/)**:
-    *   *Descripción:* Balanza de visión computacional para supermercados que identifica frutas y verduras automáticamente mediante una cámara cenital con IA sin necesidad de códigos de barras.
-    *   *Aplicación al problema:* Referente comercial directo del módulo de cámara e interfaz de pantalla para operarios en la zona de pesaje y control de calidad.
+*   **[OneThird](https://www.onethird.io/)**:
+    *   *Descripción:* Plataforma y escáner óptico portátil asistido por IA y espectrometría NIR que evalúa la calidad interna y el deterioro celular de frutas y verduras sin dañarlas, prediciendo con exactitud sus días de vida útil restantes.
+    *   *Aplicación al problema:* Resuelve la falta de un criterio estandarizado y objetivo para el descarte en supermercados. Proporciona datos predictivos en tiempo real para decidir de forma automatizada si el producto se mantiene en venta regular, se etiqueta con descuento dinámico o se canaliza a donación antes de pudrirse (*ODS 12.3*).
 
-*   **[Afresh Fresh Operating System](https://www.afresh.com/)**:
-    *   *Descripción:* Plataforma de software con IA para supermercados especializada en predecir la demanda y la vida útil de frutas y verduras para reducir el desperdicio.
-    *   *Aplicación al problema:* Cierra la brecha de las "hojas de cálculo desconectadas" al convertir los datos de calidad y maduración de los productos en órdenes automáticas de descuento o reposición.
+*   **[Winnow Vision](https://www.winnowsolutions.com/)**:
+    *   *Descripción:* Estación física de triaje y descarte automatizado que integra una cámara superior de visión computacional con una báscula inteligente conectada a la nube para identificar y cuantificar en tiempo real los alimentos desechados.
+    *   *Aplicación al problema:* Reemplaza directamente las "hojas de cálculo desconectadas" y la supervisión manual en la zona de descarte. Elimina los puntos ciegos operativos al registrar de forma autónoma el tipo y peso de merma, generando métricas inmediatas para optimizar los flujos de inventario (*ODS 9* y *ODS 12*).
 
-*   **[Sensitech / Strella Biotechnology Ethylene & Biosensors](https://www.sensitech.com/)**:
-    *   *Descripción:* Sensores IoT de monitoreo de etileno e indicadores de gas en tiempo real diseñados para cámaras de maduración y trastienda de supermercados.
-    *   *Aplicación al problema:* Demuestra la viabilidad comercial de medir emanaciones de gas etileno en trastienda para tomar decisiones de rotación de inventario antes de que el producto se pudra.
-
-## 3. Conclusiones
-
-* Se recopilaron y estructuraron exitosamente las 12 fuentes del estado del arte requeridas, integrando producción científica, propiedad intelectual (patentes), proyectos de grado e implementaciones comerciales.
-* Las patentes y tesis identificadas demuestran la viabilidad técnica de capturar variables eléctricas de forma no intrusiva y procesar telemetría en tiempo real.
-* La base bibliográfica recopilada valida la articulación del proyecto con las metas de las ODS 9, 11 y 12, sirviendo como fundamento para la etapa de diseño de la solución de ingeniería.
+*   **[Afresh](https://www.afresh.com/)**:
+    *   *Descripción:* Sistema operativo y plataforma de software impulsada por machine learning especializada en la gestión y optimización de pedidos de inventario perecedero en cadenas de supermercados.
+    *   *Aplicación al problema:* Combate la brecha tecnológica y de datos en trastienda. Al cruzar la información de frescura y rotación, evita la sobreacumulación de frutas y verduras en bodega, reduciendo la merma en anaquel y disminuyendo los volúmenes de desechos que terminan en vertederos municipales (*ODS 11.6* y *ODS 12*).
 
 ---
 
