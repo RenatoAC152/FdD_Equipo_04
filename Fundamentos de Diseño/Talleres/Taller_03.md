@@ -27,9 +27,9 @@ Para fundamentar teóricamente la fusión sensorial (visión artificial + detecc
     *   *Descripción:* Investigación que implementa nodos IoT con sensores electroquímicos de gas etileno en tiempo real para determinar el grado de maduración fisiológica de frutas climatéricas y planificar estrategias de conservación.
     *   *Aplicación al problema:* Valida científicamente el uso de sensores de gas etileno para anticipar el deterioro antes de que aparezcan defectos visibles en la corteza de la fruta, permitiendo tomar decisiones de triaje preventivo (*ODS 12.3*).
 
-*   **[Fruit Ripeness Assertion and Freshness Classification Using Deep Learning and Computer Vision](https://doi.org/10.1016/j.procs.2023.01.256)** (Procedia Computer Science / ResearchGate):
-    *   *Descripción:* Estudio enfocado en el entrenamiento de redes neuronales convolucionales (YOLO / CNN) para la detección y clasificación del estado de madurez y descomposición de frutas a partir de imágenes en vivo.
-    *   *Aplicación al problema:* Fundamenta la arquitectura del modelo de visión artificial en la cámara para categorizar automáticamente las frutas en estados: óptima, madura para remate, sobremadura para donación o descartada (*ODS 9.4*).
+*   **[Fruit Ripeness Assertion and Freshness Classification Using Deep Learning and Computer Vision](https://zenodo.org/records/7900479)** (Procedia Computer Science / ResearchGate):
+    *   *Descripción:* Sistema de clasificación de la madurez de frutas (banana, naranja, mango) en tres estados —madura, no madura, deteriorada— mediante el algoritmo YOLOv3 y visión artificial, entrenado sobre la arquitectura Darknet y validado con detección en tiempo real por cámara.
+    *   *Aplicación al problema:* Valida que el reconocimiento del estado de madurez puede automatizarse con una sola cámara, sin sensores físicos adicionales, sustituyendo la supervisión visual subjetiva actual (ODS 9 — infraestructura e innovación tecnológica; ODS 12.3 — reducción de pérdidas de alimentos).
 
 *   **[Retail food waste: Mapping causes and reduction practices](https://doi.org/10.1016/j.jclepro.2020.120124)** (Journal of Cleaner Production / Elsevier):
     *   *Descripción:* Estudio empírico que mapea las causas operativas de desperdicio de frutas y vegetales en supermercados y analiza prácticas de prevención basadas en tecnología y revalorización.
