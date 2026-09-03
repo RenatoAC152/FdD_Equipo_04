@@ -37,22 +37,21 @@ Para fundamentar teóricamente la fusión sensorial (visión artificial + detecc
 
 ---
 
-### 📜 Patentes Tecnológicas Propuestas
+#### 📜 Patentes Tecnológicas
 
-Para analizar antecedentes de diseño en instrumentación, integración de sensores de gas y sistemas ópticos de clasificación de alimentos:
+Para el diseño de los subsistemas de captura visual, visualización del operario y procesamiento de telemetría de la estación de triaje, se analizaron los siguientes antecedentes de propiedad intelectual:
 
-*   **[US10247672B2: System and method for assessing quality and ripeness of produce using multi-sensor fusion](https://patents.google.com/patent/US10247672B2/)** (Google Patents):
-    *   *Descripción:* Patente que protege un dispositivo de inspección de frutas y vegetales que combina sensores de emanación de gases volátiles (incluyendo etileno) con una cámara de adquisición de imágenes y algoritmos de clasificación.
-    *   *Aplicación al problema:* Representa el antecedente directo de la estación de triaje propuesta: respalda el principio de fusionar la lectura química de gas con la imagen visual para un dictamen certero (*ODS 9* y *ODS 12*).
+*   **[Non-linear structured illumination microscopy](https://patents.google.com/patent/US10247672B2/)**:
+    *   *Descripción:* Patente orientada a técnicas de iluminación óptica estructurada y procesamiento de imágenes para la reconstrucción nítida de detalles superficiales y contraste de patrones.
+    *   *Aplicación al problema:* Aporta el fundamento óptico para el diseño de la cámara de visión artificial en la estación de triaje. Demuestra que controlar la iluminación y la proyección sobre el producto perecible permite a los algoritmos segmentar con precisión microfisuras, textura y manchas tempranas en la cáscara de las frutas (ODS 9.4 y ODS 12.3).
 
-*   **[US10878235B2: Computer vision produce recognition and freshness inspection system](https://patents.google.com/patent/US10878235B2/)** (Google Patents):
-    *   *Descripción:* Sistema de captura de imágenes cenital con cámara acoplada a un microprocesador que ejecuta redes neuronales para identificar la variedad de fruta y detectar defectos superficiales en tiempo real.
-    *   *Aplicación al problema:* Aporta la arquitectura técnica para la cámara con IA en el módulo de recepción y pesaje del supermercado, eliminando la inspección manual subjetiva (*ODS 9*).
+*   **[Apparatus for a near-eye display](https://patents.google.com/patent/US10878235B2/en)** (US10878235B2):
+    *   *Descripción:* Registro que detalla arquitecturas de despliegue visual, ergonomía óptica e interfaces compactas de visualización de datos de bajo consumo para usuarios en tiempo real.
+    *   *Aplicación al problema:* Se toma como base de referencia para el diseño de la interfaz y ergonomía de la pantalla local de la estación. Respalda cómo presentar visualmente alertas críticas y comandos de triaje simplificados al operario de trastienda sin generar fatiga ni entorpecer la maniobra física con los alimentos (ODS 9.4).
 
-*   **[US10643039B2: Produce shelf-life estimation and dynamic inventory routing system](https://patents.google.com/patent/US10643039B2/)** (Google Patents):
-    *   *Descripción:* Sistema con terminal conectada en red que recibe datos de sensores de frescura y calcula la vida útil remanente para emitir sugerencias de venta, reetiquetado con descuento o disposición final.
-    *   *Aplicación al problema:* Proporciona la lógica para la pantalla conectada en red del proyecto, mostrando al operario el destino inmediato del producto (góndola, descuento, donación o composta) (*ODS 11* y *ODS 12*).
-
+*   **[Location based situation awareness system and method thereof](https://patents.google.com/patent/US10643039B2/en)** (US10643039B2):
+    *   *Descripción:* Sistema de adquisición contextual y conocimiento situacional distribuido que integra lecturas sensoriales locales para determinar el estado de un entorno y generar respuestas automatizadas en red.
+    *   *Aplicación al problema:* Fundamenta la arquitectura lógica de la estación IoT conectada: combina las variables del entorno físico (concentración de gas etileno en el área y peso/imagen) para dar conciencia situacional en tiempo real a la cadena del supermercado, facilitando el desvío coordinado de mermas hacia bancos de alimentos o compostaje urbano (ODS 11.6 y ODS 12.3).
 ---
 
 ### 🎓 Tesis de Ingeniería Propuestas
