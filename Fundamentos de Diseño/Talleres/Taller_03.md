@@ -94,3 +94,7 @@ Para abordar la problemática de ineficiencia y falta de monitoreo automatizado 
 
 * Repositorio de trabajo y referencias bibliográficas del equipo:  
   `https://docs.google.com/document/d/1d6bb2DT5UL9tqzVOKo718GHyI4YDIDvgp03kzmWdJmY/edit?usp=sharing`
+* PDF (No editable):
+[ENTREGABLE_3.pdf](https://github.com/user-attachments/files/31767599/ENTREGABLE_3.pdf)
+* Grupo Zotero:
+[grupo_zotero](https://www.zotero.org/groups/6656829/fundamentos_de_diseog4)
