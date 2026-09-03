@@ -59,17 +59,17 @@ Para analizar antecedentes de diseño en instrumentación, integración de senso
 
 Para revisar desarrollos aplicados de hardware, microcontroladores, modelos de IA e interfaces de usuario:
 
-*   **[Diseño e implementación de un sistema de visión artificial para la clasificación de calidad y estado de madurez de frutas mediante redes neuronales convolucionales](http://hdl.handle.net/20.500.12404/18742)** (PUCP - Repositorio Institucional):
-    *   *Descripción:* Tesis de ingeniería que documenta la selección de cámaras, diseño del entorno de iluminación controlado y despliegue de una red convolucional sobre un dispositivo embebido para triaje de frutas.
-    *   *Aplicación al problema:* Brinda la metodología técnica para entrenar el modelo de visión artificial y montar la estructura de captura de imagen en la estación de triaje (*ODS 9*).
+*   [Sistema de IoT para monitoramento da maturação de frutas por cor e gás etileno (UFAM - Repositório Institucional)](https://riu.ufam.edu.br/handle/prefix/7931):
+    *   *Descripción:* Tesis de grado de ingeniería que aborda la maduración de frutas como un proceso físico-químico integral mediante sensoriado combinado de luz espectral (AS7341) y concentración de gas etileno/etanol (MQ-3), procesado localmente por un microcontrolador ESP32 mediante una red neuronal Multilayer Perceptron (MLP).
+    *   *Aplicación al problema:* Proporciona el sustento metodológico y técnico para la fusión de datos físicos (visión/color) y químicos (gases volátiles), validando el uso del microcontrolador ESP32 y sensores de la familia MQ para el triaje automatizado en la estación (ODS 9 y ODS 12).
 
-*   **[Desarrollo de un prototipo IoT con sensores de gases y microcontrolador para el monitoreo de maduración y frescura en cámaras de almacenamiento de perecibles](http://hdl.handle.net/10757/658932)** (UPC - Repositorio Institucional):
-    *   *Descripción:* Tesis orientada al acondicionamiento de señales de sensores de gas (etileno / VOCs), calibración de lecturas y envío de telemetría hacia un servidor local.
-    *   *Aplicación al problema:* Resuelve la parte de instrumentación electrónica: cómo integrar y calibrar el sensor de etileno con el microcontrolador/computador que gestionará la estación (*ODS 12*).
+*   [Diseño e implementación de un sistema de control automático con visión artificial y redes neuronales destinado al control de calidad de alimentos (UPS - Repositorio Institucional)](https://dspace.ups.edu.ec/handle/123456789/23225):
+    *   *Descripción:* Proyecto de titulación mecatrónico enfocado en el control de calidad en tiempo real de frutas (manzanas y peras) utilizando visión artificial con TensorFlow Lite y OpenCV sobre una Raspberry Pi 4, integrando un mecanismo de transporte automatizado con eyección mecánica mediante pistones.
+    *   *Aplicación al problema:* Brinda la arquitectura de visión artificial para la clasificación por detección de defectos e imperfecciones superficiales en frutas, sirviendo de antecedente para la automatización de la inspección sin contacto físico (ODS 9).
 
-*   **[Implementación de un sistema de gestión de mermas y redistribución de alimentos perecibles en el sector retail mediante plataformas web interconectadas](https://renati.sunedu.gob.pe/)** (Repositorio Nacional SUNEDU / UNMSM):
-    *   *Descripción:* Proyecto de titulación de Ingeniería Industrial centrado en el diseño de flujos operativos para clasificar mermas y articular la donación oportuna a comedores o venta dinámica en tiendas.
-    *   *Aplicación al problema:* Modela el flujo de decisiones logísticas que mostrará la pantalla en red al operario, estandarizando el criterio de descarte de frutas (*ODS 11* y *ODS 12*).
+*   [Sistem Pendeteksi Kematangan Buah Berbasis E-Nose dan Internet of Things (Politeknik Negeri Jember - Repositori)](https://sipora.polije.ac.id/46098/):
+    *   *Descripción:* Trabajo de titulación centrado en la eliminación de la inspección manual subjetiva ("a ojo") mediante el desarrollo de una nariz electrónica (E-Nose) equipada con sensores MQ-3 y MQ-135, combinada con arquitectura IoT y bases de datos en tiempo real (Firebase) para la clasificación de estados de madurez.
+    *   *Aplicación al problema:* Resuelve la problemática del punto ciego en la selección manual en puntos de venta, ofreciendo el modelo para la integración IoT (ESP32 + sensores de gas + telemetría en la nube) que alimenta la pantalla de orientación para el operario (ODS 11 y ODS 12).
 
 ---
 
