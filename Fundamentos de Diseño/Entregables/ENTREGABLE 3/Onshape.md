@@ -6,5 +6,6 @@
 ---
 
 ## 2. Archivos Subidos en esta Carpeta (`ENTREGABLE 3`)
-* **Modelo 3D Final Integrado (`.STL`):** [`HORIZON_GRUPO04_REV4_COLORES.stl`](./HORIZON_GRUPO04_REV4_COLORES.stl)
+* **Modelo 3D Final Integrado (`.STL`):** [`HORIZON_GRUPO04_COMPLETO.stl`](./HORIZON_GRUPO04_COMPLETO.stl)
 * **Planos Acotados (`.PDF`):** [`Planos acotados_HORIZON_Grupo04`](./Planos%20acotados_HORIZON_Grupo04)
+* **Archivos de Corte Láser (`.DXF`):** [`PLANOS DXF`](./PLANOS%20DXF)
