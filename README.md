@@ -1,14 +1,39 @@
+# HORIZON | Equipo 04
 
+**Estación IoT de triaje de plátano de seda y pimiento rojo**
 
-# Equipo 04 - Fundamentos de diseño
-### Carrera de Ingeniería Informática / Industrial  
-**Universidad Peruana Cayetano Heredia**
+Fundamentos de Diseño 2026-II · Universidad Peruana Cayetano Heredia
 
----
+HORIZON propone una estación de inspección con visión artificial y sensores para apoyar el triaje de productos y reducir las mermas de alimentos.
 
-## 🌍 Descripción del Equipo 
-Somos el **Equipo 04** del curso **Fundamentos de diseño 2026-II**, conformado por estudiantes de la carrera de Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+## Integrantes y fotografías
+
+Las fotos actuales se enlazan como referencia. La última columna indica dónde cargar cada foto con vestimenta elegante.
+
+| Integrante | Carrera | Función | Foto actual | Ruta para la foto formal |
+| --- | --- | --- | --- | --- |
+| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | [Ver foto](<Recursos/Im%C3%A1genes/Renato>) | `Recursos/Imágenes/Renato Alarcon.png` |
+| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | [Ver foto](<Recursos/Im%C3%A1genes/Sebastian.jpeg>) | `Recursos/Imágenes/Sebastian Barzola.png` |
+| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | [Ver foto](<Recursos/Im%C3%A1genes/Jherson.jpeg>) | `Recursos/Imágenes/Jherson Cortez.png` |
+| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | [Ver foto](<Recursos/Im%C3%A1genes/Aaron.jpeg>) | `Recursos/Imágenes/Rodolfo Machco.png` |
+| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | [Ver foto](<Recursos/Im%C3%A1genes/Mathias.jpeg>) | `Recursos/Imágenes/Mathias Veramendi.png` |
+
+### Fotografía grupal
+
+[Ver fotografía grupal actual](<Recursos/Im%C3%A1genes/grupo.jpeg>). La foto grupal con vestimenta elegante se cargará en `Recursos/Imágenes/Foto grupal.png`.
+
+## Navegación
+
+- [Fundamentos de diseño](<Fundamentos%20de%20dise%C3%B1o/README.md>)
+- [Entregable 4](<Fundamentos%20de%20dise%C3%B1o/Entregables/Entregable%204/README.md>)
+- [Proyecto y módulos](<Proyecto/README.md>)
+- [Recursos de apoyo](<Recursos/README.md>)
+
+## Antecedentes del proyecto
+
+## 🌍 Descripción del Equipo
+Somos el **Equipo 04** del curso **Fundamentos de diseño 2026-II**, conformado por estudiantes de la carrera de Informática / Industrial.
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 ## 🎯 ODS Seleccionadas
 Como equipo trabajaremos con tres ODS de forma conjunta: una principal y dos secundarias, que en conjunto nos dan el marco para abordar la problemática descrita más abajo.
@@ -18,9 +43,9 @@ Como equipo trabajaremos con tres ODS de forma conjunta: una principal y dos sec
 **📌Descripción General:**
 El ODS 9 se enfoca en construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible, y fomentar la innovación tecnológica. Es un pilar fundamental para encontrar soluciones duraderas a los desafíos económicos y ambientales, facilitando la integración del desarrollo tecnológico dentro de los procesos industriales tradicionales.
 
-<p align="center"><img src="/Recursos/Imágenes/ods9.gif" width="180"/>
- 
-**🎯Meta 9.4:** 
+<p align="center"><img src="Recursos/Im%C3%A1genes/ods9.gif" width="180"/>
+
+**🎯Meta 9.4:**
 > 💡De aquí a 2030, modernizar la infraestructura y reconfigurar las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales.
 
 ### 🏙️ ODS Secundaria: ODS 11 — Ciudades y Comunidades Sostenibles
@@ -28,9 +53,9 @@ El ODS 9 se enfoca en construir infraestructuras resilientes, promover la indust
 **📌Descripción General:**
 El ODS 11 busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, mejorando el acceso a vivienda, transporte, servicios básicos y espacios públicos, al tiempo que se reduce el impacto ambiental de las zonas urbanas e industriales.
 
-<p align="center"><img src="/Recursos/Imágenes/ods11.gif" width="180"/>
+<p align="center"><img src="Recursos/Im%C3%A1genes/ods11.gif" width="180"/>
 
-**🎯Meta 11.6:** 
+**🎯Meta 11.6:**
 > 💡De aquí a 2030, reducir el impacto ambiental negativo per cápita de las ciudades, incluso prestando especial atención a la calidad del aire y la gestión de los desechos municipales y de otro tipo.
 
 ### 🔄 ODS Secundaria: ODS 12 — Producción y Consumo Responsables
@@ -38,15 +63,15 @@ El ODS 11 busca lograr que las ciudades y los asentamientos humanos sean inclusi
 **📌Descripción General:**
 El ODS 12 tiene como objetivo garantizar modalidades de consumo y producción sostenibles, promoviendo el uso eficiente de los recursos naturales, la reducción de desperdicios mediante prevención, reducción, reciclado y reutilización, y la adopción de prácticas empresariales sostenibles.
 
-<p align="center"><img src="/Recursos/Imágenes/ods12.gif" width="180"/>
+<p align="center"><img src="Recursos/Im%C3%A1genes/ods12.gif" width="180"/>
 
-**🎯Meta 12.2:** 
+**🎯Meta 12.2:**
 > 💡De aquí a 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales.
 
 ---
 ## ⚠️Problemática
 Esta es la problemática central que el proyecto busca combatir, abordada desde el marco conjunto de las tres ODS seleccionadas (industria e innovación, ciudades sostenibles, y producción y consumo responsables).
- 
+
 **🏷️Tema:** Ineficiencia y falta de monitoreo automatizado de mermas en el sector retail alimentario (supermercados y minimarkets).
 
 **🔍Descripción del problema:**
@@ -58,26 +83,3 @@ Actualmente, el sector de los supermercados opera con pérdidas significativas d
 ​Nuestro enfoque será implementar una Estación IoT de Triaje que elimine esta desconexión de datos mediante reconocimiento de imágenes con IA y visión artificial. Este sistema analizará con alta precisión el estado de maduración, manchas o deterioro físico en frutas y verduras específicas, determinando de manera automatizada y objetiva el descarte u homologación del producto (venta con descuento, donación o composta). Con esto, se generarán métricas en tiempo real para reducir la merma y alinearse con los ODS 9, 11 y 12.
 
 ---
-
-## 📸 Fotografía del Equipo  
-<p align="center">
-<img  width="1408" height="768" src="/Recursos/Imágenes/grupo.jpeg" />
-  <em>Figura 1. Fotografía del equipo 04</em>
-</p>
-
----
-
-## 👥 Integrantes del Equipo  
-
-| Foto | Nombre | Rol | Intereses |
-|------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Aaron.jpeg" width="90" />| **Aaron Machco** | 👑Líder del equipo | 🌱Innovación social, ♻️sostenibilidad |
-| <img width="90" alt="WhatsApp Image 2026-08-19 at 11 27 20" src="https://github.com/user-attachments/assets/5e1b6cd9-9d45-47a0-b721-557b04a28107" /> | **Sebastián Barzola Anglas** | 📊Responsable de investigación | 🌍Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Renato" width="90"/> | **Renato Alarcón** | 🎨Diseñador | 🧩Diseño de prototipos, creatividad aplicada |
-| <img width="90" alt="WhatsApp Image 2026-08-19 at 11 56 09 AM" src="https://github.com/user-attachments/assets/f8ee855e-bdea-4420-86ee-41373e76fefb" />| **Cortez Dominguez Jherson** | 💻Programador | 👩‍💻Programación y análisis |
-| <img src="/Recursos/Imágenes/Mathias.jpeg" width="90"/> | **Mathias Veramendi Minaya** | 📝Encargado de documentación | Comunicación científica, redacción técnica |
-
----
-
-## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  

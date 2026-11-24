@@ -1,0 +1,9 @@
+# ESQUEMÁTICO Y MODELADO 3D CORREGIDOS
+
+Material de ESQUEMÁTICO Y MODELADO 3D CORREGIDOS correspondiente a la estructura de HORIZON.
+
+## Archivos disponibles
+
+- [HORIZON — Taller S11.pdf](<HORIZON%20%E2%80%94%20Taller%20S11.pdf>)
+- [HORIZON_P2_COMPLETO_GRUPO_04 (1).stl](<HORIZON_P2_COMPLETO_GRUPO_04%20%281%29.stl>)
+- [ONSHAPE](<ONSHAPE>)
