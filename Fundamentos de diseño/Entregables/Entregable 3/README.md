@@ -16,3 +16,7 @@ Paquete del Entregable 3 con esquemático, enlaces, bocetos, modelos STL y docum
 - [Correo_Impresion3D_CorteLaser.md](<Correo_Impresion3D_CorteLaser.md>)
 - [Esquematico_HORIZON_Grupo04.pdf](<Esquematico_HORIZON_Grupo04.pdf>)
 - [HORIZON_GRUPO04_COMPLETO.stl](<HORIZON_GRUPO04_COMPLETO.stl>)
+
+## Continuidad hacia VFINAL
+
+[Módulo mecánico](<../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/Onshape/README.md>) · [Módulo electrónico](<../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md>) · [Enlaces del Entregable 3](<00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md>).

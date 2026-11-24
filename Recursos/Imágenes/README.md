@@ -21,3 +21,5 @@ Fotografías y gráficos del equipo. El README principal especifica dónde carga
 - [ods11.gif](<ods11.gif>)
 - [ods12.gif](<ods12.gif>)
 - [ods9.gif](<ods9.gif>)
+
+- [Renato.jpeg](Renato.jpeg) es una copia idéntica de la foto original de Renato con extensión JPEG para mostrarla en la tabla.

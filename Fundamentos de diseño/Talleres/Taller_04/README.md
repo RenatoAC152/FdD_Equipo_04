@@ -6,3 +6,7 @@ Lista de exigencias de la estación de triaje y ficha del Taller 4.
 
 - [Taller_04_L.E..pdf](<Taller_04_L.E..pdf>)
 - [Taller_4.md](<Taller_4.md>)
+
+## Requisitos del diseño
+
+[Lista de exigencias](<Taller_04_L.E..pdf>) para la estación IoT de triaje.

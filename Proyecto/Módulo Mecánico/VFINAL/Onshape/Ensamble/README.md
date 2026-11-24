@@ -1,5 +1,21 @@
-# Ensamble
+# Ensamble · HORIZON
 
-Material de Ensamble correspondiente a la estructura de HORIZON.
+La ficha Rev E establece **193,7 × 172,5 × 179,5 mm**. La cámara de inspección y la electrónica quedan separadas por el tabique. La consola permite interactuar con la estación y la puerta con cierre magnético da acceso a la cámara.
 
-Pendiente de incorporar archivos del equipo.
+[Abrir el modelo corregido en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a?renderMode=0&uiState=6aeab944cbc86068d5827ac5) · [Ver la vista explosionada del Taller S11](<../../../../../Fundamentos%20de%20dise%C3%B1o/Talleres/Taller_10/ESQUEM%C3%81TICO%20Y%20MODELADO%203D%20CORREGIDOS/HORIZON%20%E2%80%94%20Taller%20S11.pdf#page=12>)
+
+## Exportaciones
+
+- [HORIZON – Guía de conexiones y soldadura.pdf](<HORIZON%20%E2%80%93%20Gu%C3%ADa%20de%20conexiones%20y%20soldadura.pdf>)
+- [HORIZON_GRUPO04_REV5_CORREGIDO.step.gz](<HORIZON_GRUPO04_REV5_CORREGIDO.step.gz>)
+- [HORIZON_GRUPO04_REV5_DEFINITIVO.step](<HORIZON_GRUPO04_REV5_DEFINITIVO.step>)
+- [HORIZON_GRUPO04_REV5_FINAL.step.gz](<HORIZON_GRUPO04_REV5_FINAL.step.gz>)
+- [HORIZON_GRUPO04_REV6_GUIA.step](<HORIZON_GRUPO04_REV6_GUIA.step>)
+- [HORIZON_GRUPO04_REV6_GUIA_SOLDADURA.step](<HORIZON_GRUPO04_REV6_GUIA_SOLDADURA.step>)
+- [HORIZON_Modelo_Completo.stl](<HORIZON_Modelo_Completo.stl>)
+- [HORIZON_P2_COMPLETO_GRUPO_04 (1).stl](<HORIZON_P2_COMPLETO_GRUPO_04%20%281%29.stl>)
+
+- **REV6_GUIA_SOLDADURA** ajusta las posiciones de las borneras al mapa de soldadura. Conserva el gabinete del REV5 definitivo.
+- **REV6_GUIA** incorpora los cortes y puentes de M01. Es una variante distinta de REV6_GUIA_SOLDADURA.
+- **REV5** conserva las distintas entregas del gabinete y la electrónica. Los archivos STEP que superan el límite de un archivo GitHub se guardan como STEP comprimido con gzip. Descomprímelos para recuperar el STEP original.
+- Los STL de taller conservan su geometría y su revisión de origen. El PDF de soldadura es la guía de montaje de la placa M01.

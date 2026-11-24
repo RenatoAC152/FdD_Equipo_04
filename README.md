@@ -12,11 +12,11 @@ Las fotos actuales se enlazan como referencia. La última columna indica dónde 
 
 | Integrante | Carrera | Función | Foto actual | Ruta para la foto formal |
 | --- | --- | --- | --- | --- |
-| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | [Ver foto](<Recursos/Im%C3%A1genes/Renato>) | `Recursos/Imágenes/Renato Alarcon.png` |
-| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | [Ver foto](<Recursos/Im%C3%A1genes/Sebastian.jpeg>) | `Recursos/Imágenes/Sebastian Barzola.png` |
-| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | [Ver foto](<Recursos/Im%C3%A1genes/Jherson.jpeg>) | `Recursos/Imágenes/Jherson Cortez.png` |
-| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | [Ver foto](<Recursos/Im%C3%A1genes/Aaron.jpeg>) | `Recursos/Imágenes/Rodolfo Machco.png` |
-| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | [Ver foto](<Recursos/Im%C3%A1genes/Mathias.jpeg>) | `Recursos/Imágenes/Mathias Veramendi.png` |
+| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | ![Alarcon Camones, Renato Angelo](Recursos/Im%C3%A1genes/Renato.jpeg) | `Recursos/Imágenes/Renato Alarcon.png` |
+| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | ![Barzola Anglas, Sebastian Omar](Recursos/Im%C3%A1genes/Sebastian.jpeg) | `Recursos/Imágenes/Sebastian Barzola.png` |
+| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | ![Cortez Dominguez, Jherson David](Recursos/Im%C3%A1genes/Jherson.jpeg) | `Recursos/Imágenes/Jherson Cortez.png` |
+| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | ![Machco Cueva, Rodolfo Aaron Giovanni](Recursos/Im%C3%A1genes/Aaron.jpeg) | `Recursos/Imágenes/Rodolfo Machco.png` |
+| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | ![Veramendi Minaya, Mathias Andre](Recursos/Im%C3%A1genes/Mathias.jpeg) | `Recursos/Imágenes/Mathias Veramendi.png` |
 
 ### Fotografía grupal
 

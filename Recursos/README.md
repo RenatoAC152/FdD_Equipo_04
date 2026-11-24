@@ -10,3 +10,5 @@ Material visual y espacio para las fuentes de investigación del equipo.
 - [Patentes](<Patentes/README.md>)
 - [Productos comerciales](<Productos%20comerciales/README.md>)
 - [Tesis de apoyo](<Tesis%20de%20apoyo/README.md>)
+
+- [Tesis y trabajos académicos](Tesis/README.md)

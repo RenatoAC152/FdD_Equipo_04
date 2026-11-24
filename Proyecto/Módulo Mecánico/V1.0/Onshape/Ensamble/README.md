@@ -1,5 +1,3 @@
-# Ensamble
+# Ensamble · V1.0
 
-Material de Ensamble correspondiente a la estructura de HORIZON.
-
-Pendiente de incorporar archivos del equipo.
+Índice de la etapa preliminar Rev A–D. Los archivos de referencia disponibles para esta categoría se reúnen en [VFINAL / Ensamble](<../../../VFINAL/Onshape/Ensamble/README.md>). El repositorio no contiene un export independiente de esta etapa.
