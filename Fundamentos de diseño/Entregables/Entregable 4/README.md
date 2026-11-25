@@ -35,4 +35,4 @@ La estructura de la plantilla `FdD_Equipo_0X.zip` se distribuye en [Fundamentos 
 
 ## 3. Presentación del equipo
 
-El [README principal](../../../README.md) presenta los nombres completos, las carreras, las funciones y las fotografías individuales. La [fotografía grupal](../../../README.md#fotografía-grupal) tiene una sección propia. El equipo reemplazará `grupo.jpeg` por la foto con vestimenta elegante.
+El [README principal](../../../README.md) presenta los nombres completos, las carreras, las funciones y las fotografías individuales. La [fotografía grupal](../../../README.md#fotografía-grupal) tiene una sección propia.
