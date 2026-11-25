@@ -1,6 +1,6 @@
 # Imágenes
 
-Fotografías y gráficos del equipo. El README principal especifica dónde cargar las fotografías con vestimenta elegante.
+Fotografías y gráficos del equipo. El README principal muestra los retratos y la fotografía grupal.
 
 ## Subcarpetas
 
@@ -8,14 +8,14 @@ Fotografías y gráficos del equipo. El README principal especifica dónde carga
 
 ## Archivos disponibles
 
-- [Aaron.jpeg](<Aaron.jpeg>)
+- [machco.jpeg](<machco.jpeg>)
 - [Jherson.jpeg](<Jherson.jpeg>)
-- [Mathias.jpeg](Mathias.jpeg)
+- [veramendi.jpeg](veramendi.jpeg)
 - [Renato.jpeg](Renato.jpeg)
-- [Sebastian.jpeg](<Sebastian.jpeg>)
+- [barzola.jpeg](<barzola.jpeg>)
 - [banner.png](<banner.png>)
 - [equipo.png](<equipo.png>)
-- [grupo.jpeg](<grupo.jpeg>)
+- [foto_grupal.jpeg](<foto_grupal.jpeg>)
 - [ods11.gif](<ods11.gif>)
 - [ods12.gif](<ods12.gif>)
 - [ods9.gif](<ods9.gif>)

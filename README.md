@@ -10,15 +10,15 @@ HORIZON propone una estación de inspección con visión artificial y sensores p
 
 | Integrante | Carrera | Función | Fotografía |
 | --- | --- | --- | --- |
-| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | <img src="Recursos/Im%C3%A1genes/Renato.jpeg" alt="Alarcon Camones, Renato Angelo" width="120"/> |
-| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | <img src="Recursos/Im%C3%A1genes/Sebastian.jpeg" alt="Barzola Anglas, Sebastian Omar" width="120"/> |
-| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | <img src="Recursos/Im%C3%A1genes/Jherson.jpeg" alt="Cortez Dominguez, Jherson David" width="120"/> |
-| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | <img src="Recursos/Im%C3%A1genes/Aaron.jpeg" alt="Machco Cueva, Rodolfo Aaron Giovanni" width="120"/> |
-| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | <img src="Recursos/Im%C3%A1genes/Mathias.jpeg" alt="Veramendi Minaya, Mathias Andre" width="120"/> |
+| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | <img src="Recursos/Im%C3%A1genes/Renato.jpeg" alt="Alarcon Camones, Renato Angelo" width="140"/> |
+| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | <img src="Recursos/Im%C3%A1genes/barzola.jpeg" alt="Barzola Anglas, Sebastian Omar" width="140"/> |
+| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | <img src="Recursos/Im%C3%A1genes/Jherson.jpeg" alt="Cortez Dominguez, Jherson David" width="140"/> |
+| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | <img src="Recursos/Im%C3%A1genes/machco.jpeg" alt="Machco Cueva, Rodolfo Aaron Giovanni" width="140"/> |
+| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | <img src="Recursos/Im%C3%A1genes/veramendi.jpeg" alt="Veramendi Minaya, Mathias Andre" width="140"/> |
 
 ## Fotografía grupal
 
-<p align="center"><img src="Recursos/Imágenes/grupo.jpeg" alt="Equipo 04 - HORIZON" width="750"/></p>
+<p align="center"><img src="Recursos/Imágenes/foto_grupal.jpeg" alt="Equipo 04 - HORIZON" width="750"/></p>
 
 ## Navegación
 
