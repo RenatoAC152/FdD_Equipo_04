@@ -1,0 +1,22 @@
+# Entregable 3
+
+Paquete del Entregable 3 con esquemático, enlaces, bocetos, modelos STL y documentación de fabricación.
+
+## Subcarpetas
+
+- [Modelos_STL_Piezas](<Modelos_STL_Piezas/README.md>)
+- [PLANOS DXF](<PLANOS%20DXF/README.md>)
+- [Planos acotados_HORIZON_Grupo04](<Planos%20acotados_HORIZON_Grupo04/README.md>)
+
+## Archivos disponibles
+
+- [00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md](<00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md>)
+- [Trabajo del Entregable 3](Entregable_3_trabajado.md)
+- [Bocetos.md](<Bocetos.md>)
+- [Correo_Impresion3D_CorteLaser.md](<Correo_Impresion3D_CorteLaser.md>)
+- [Esquematico_HORIZON_Grupo04.pdf](<Esquematico_HORIZON_Grupo04.pdf>)
+- [HORIZON_GRUPO04_COMPLETO.stl](<HORIZON_GRUPO04_COMPLETO.stl>)
+
+## Continuidad hacia VFINAL
+
+[Módulo mecánico](<../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/Onshape/README.md>) · [Módulo electrónico](<../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md>) · [Enlaces del Entregable 3](<00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md>).
