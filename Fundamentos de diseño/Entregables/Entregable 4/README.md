@@ -1,10 +1,11 @@
 # Entregable 4
 
-Carpeta del Entregable 4. El Markdown existente se conserva como marcador. El informe y la presentación quedan pendientes.
+El Entregable 4 reúne la documentación de cierre del prototipo HORIZON.
 
-## Archivos disponibles
-
-- [4. [Entregable trabajado].md](<4.%20%5BEntregable%20trabajado%5D.md>)
+- [Módulo mecánico VFINAL](../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/README.md)
+- [Módulo electrónico VFINAL](../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md)
+- [Referencias de diseño](../../../Recursos/README.md)
+- [Presentación y póster](../../Presentaciones%20de%20Proyecto/README.md)
 
 ## Fuentes de diseño de HORIZON
 

@@ -8,7 +8,7 @@ HORIZON propone una estación de inspección con visión artificial y sensores p
 
 ## Integrantes y fotografías
 
-Las fotos actuales se enlazan como referencia. La última columna indica dónde cargar cada foto con vestimenta elegante.
+La tabla muestra las fotos del equipo. La última columna indica dónde cargar cada foto con vestimenta elegante.
 
 | Integrante | Carrera | Función | Foto actual | Ruta para la foto formal |
 | --- | --- | --- | --- | --- |
@@ -17,10 +17,7 @@ Las fotos actuales se enlazan como referencia. La última columna indica dónde 
 | Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | ![Cortez Dominguez, Jherson David](Recursos/Im%C3%A1genes/Jherson.jpeg) | `Recursos/Imágenes/Jherson Cortez.png` |
 | Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | ![Machco Cueva, Rodolfo Aaron Giovanni](Recursos/Im%C3%A1genes/Aaron.jpeg) | `Recursos/Imágenes/Rodolfo Machco.png` |
 | Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | ![Veramendi Minaya, Mathias Andre](Recursos/Im%C3%A1genes/Mathias.jpeg) | `Recursos/Imágenes/Mathias Veramendi.png` |
-
-### Fotografía grupal
-
-[Ver fotografía grupal actual](<Recursos/Im%C3%A1genes/grupo.jpeg>). La foto grupal con vestimenta elegante se cargará en `Recursos/Imágenes/Foto grupal.png`.
+| Equipo 04, fotografía grupal | | | ![Equipo 04 de HORIZON](Recursos/Im%C3%A1genes/grupo.jpeg) | `Recursos/Imágenes/Foto grupal.png` |
 
 ## Navegación
 

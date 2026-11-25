@@ -7,7 +7,7 @@
 ---
 
 ## 2. Modelado 3D y Fabricación (Onshape)
-* **Ensamblaje 3D Integrado (Assembly):** [Abrir proyecto HORIZON_Grupo04 en Onshape](https://cad.onshape.com/documents/a05983207418a0e47ec34aae/w/ed2acd99df2cf54146badab0/e/73ba382984dda80c2e2e900c?renderMode=0&uiState=691bd7829427021c60e1005a)
+* **Ensamblaje 3D Integrado (Assembly):** [Abrir proyecto HORIZON_Grupo04 en Onshape](https://cad.onshape.com/documents/a05983207418a0e47ec34aae/w/ed2acd99df2cf54146badab0/e/73ba382984dda8bc7a2e9b0c)
 * **Documentación de Fabricación (Impresión 3D y Corte Láser con links individuales `P01`–`P08`):** [`Correo_Impresion3D_CorteLaser.md`](./Correo_Impresion3D_CorteLaser.md)
 
 ---

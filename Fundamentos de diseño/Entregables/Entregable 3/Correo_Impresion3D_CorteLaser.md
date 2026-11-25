@@ -24,4 +24,4 @@
 ---
 
 ## 3. Enlace de Referencia del Ensamblaje General
-* **Ensamblaje Completo (Guía de armado para taller):** [Abrir Assembly HORIZON_Grupo04 en Onshape](https://cad.onshape.com/documents/a05983207418a0e47ec34aae/w/ed2acd99df2cf54146badab0/e/73ba382984dda80c2e2e900c?renderMode=0&uiState=691bd7829427021c60e1005a)
+* **Ensamblaje Completo (Guía de armado para taller):** [Abrir Assembly HORIZON_Grupo04 en Onshape](https://cad.onshape.com/documents/a05983207418a0e47ec34aae/w/ed2acd99df2cf54146badab0/e/73ba382984dda8bc7a2e9b0c)

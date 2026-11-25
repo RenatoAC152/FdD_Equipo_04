@@ -11,7 +11,7 @@ Paquete del Entregable 3 con esquemático, enlaces, bocetos, modelos STL y docum
 ## Archivos disponibles
 
 - [00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md](<00_DOCUMENTACION_Y_LINKS_ONSHAPE_EASYEDA.md>)
-- [3. [Entregable trabajado].md](<3.%20%5BEntregable%20trabajado%5D.md>)
+- [Trabajo del Entregable 3](Entregable_3_trabajado.md)
 - [Bocetos.md](<Bocetos.md>)
 - [Correo_Impresion3D_CorteLaser.md](<Correo_Impresion3D_CorteLaser.md>)
 - [Esquematico_HORIZON_Grupo04.pdf](<Esquematico_HORIZON_Grupo04.pdf>)

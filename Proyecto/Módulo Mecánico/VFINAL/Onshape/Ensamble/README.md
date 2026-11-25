@@ -4,7 +4,11 @@ La ficha Rev E establece **193,7 × 172,5 × 179,5 mm**. La cámara de inspecci�
 
 [Abrir el modelo corregido en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a?renderMode=0&uiState=6aeab944cbc86068d5827ac5) · [Ver la vista explosionada del Taller S11](<../../../../../Fundamentos%20de%20dise%C3%B1o/Talleres/Taller_10/ESQUEM%C3%81TICO%20Y%20MODELADO%203D%20CORREGIDOS/HORIZON%20%E2%80%94%20Taller%20S11.pdf#page=12>)
 
-## Exportaciones
+## Ensamble del Entregable 3
+
+[HORIZON_GRUPO04_COMPLETO.stl](HORIZON_GRUPO04_COMPLETO.stl) contiene la malla integrada del gabinete y su electrónica para revisar la disposición y el montaje. [Abrir ensamble del Entregable 3 en Onshape](https://cad.onshape.com/documents/a05983207418a0e47ec34aae/w/ed2acd99df2cf54146badab0/e/73ba382984dda8bc7a2e9b0c) · [Consultar origen](../../../../../Fundamentos%20de%20dise%C3%B1o/Entregables/Entregable%203/README.md)
+
+## Exportaciones de taller y correcciones
 
 - [HORIZON – Guía de conexiones y soldadura.pdf](<HORIZON%20%E2%80%93%20Gu%C3%ADa%20de%20conexiones%20y%20soldadura.pdf>)
 - [HORIZON_GRUPO04_REV5_CORREGIDO.step.gz](<HORIZON_GRUPO04_REV5_CORREGIDO.step.gz>)
