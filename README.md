@@ -8,16 +8,17 @@ HORIZON propone una estación de inspección con visión artificial y sensores p
 
 ## Integrantes y fotografías
 
-La tabla muestra las fotos del equipo. La última columna indica dónde cargar cada foto con vestimenta elegante.
+| Integrante | Carrera | Función | Fotografía |
+| --- | --- | --- | --- |
+| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | <img src="Recursos/Im%C3%A1genes/Renato.jpeg" alt="Alarcon Camones, Renato Angelo" width="120"/> |
+| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | <img src="Recursos/Im%C3%A1genes/Sebastian.jpeg" alt="Barzola Anglas, Sebastian Omar" width="120"/> |
+| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | <img src="Recursos/Im%C3%A1genes/Jherson.jpeg" alt="Cortez Dominguez, Jherson David" width="120"/> |
+| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | <img src="Recursos/Im%C3%A1genes/Aaron.jpeg" alt="Machco Cueva, Rodolfo Aaron Giovanni" width="120"/> |
+| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | <img src="Recursos/Im%C3%A1genes/Mathias.jpeg" alt="Veramendi Minaya, Mathias Andre" width="120"/> |
 
-| Integrante | Carrera | Función | Foto actual | Ruta para la foto formal |
-| --- | --- | --- | --- | --- |
-| Alarcon Camones, Renato Angelo | Ingeniería Industrial | Diseño | ![Alarcon Camones, Renato Angelo](Recursos/Im%C3%A1genes/Renato.jpeg) | `Recursos/Imágenes/Renato Alarcon.png` |
-| Barzola Anglas, Sebastian Omar | Ingeniería Informática | Investigación | ![Barzola Anglas, Sebastian Omar](Recursos/Im%C3%A1genes/Sebastian.jpeg) | `Recursos/Imágenes/Sebastian Barzola.png` |
-| Cortez Dominguez, Jherson David | Ingeniería Informática | Programación | ![Cortez Dominguez, Jherson David](Recursos/Im%C3%A1genes/Jherson.jpeg) | `Recursos/Imágenes/Jherson Cortez.png` |
-| Machco Cueva, Rodolfo Aaron Giovanni | Ingeniería Industrial | Liderazgo | ![Machco Cueva, Rodolfo Aaron Giovanni](Recursos/Im%C3%A1genes/Aaron.jpeg) | `Recursos/Imágenes/Rodolfo Machco.png` |
-| Veramendi Minaya, Mathias Andre | Ingeniería Informática | Documentación | ![Veramendi Minaya, Mathias Andre](Recursos/Im%C3%A1genes/Mathias.jpeg) | `Recursos/Imágenes/Mathias Veramendi.png` |
-| Equipo 04, fotografía grupal | | | ![Equipo 04 de HORIZON](Recursos/Im%C3%A1genes/grupo.jpeg) | `Recursos/Imágenes/Foto grupal.png` |
+## Fotografía grupal
+
+<p align="center"><img src="Recursos/Imágenes/grupo.jpeg" alt="Equipo 04 - HORIZON" width="750"/></p>
 
 ## Navegación
 

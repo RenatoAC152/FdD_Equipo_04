@@ -1,19 +1,38 @@
-# Entregable 4
+# Entregable 4 · HORIZON
 
-El Entregable 4 reúne la documentación de cierre del prototipo HORIZON.
+**Rúbrica de evaluación · 20 puntos**
 
-- [Módulo mecánico VFINAL](../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/README.md)
-- [Módulo electrónico VFINAL](../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md)
-- [Referencias de diseño](../../../Recursos/README.md)
-- [Presentación y póster](../../Presentaciones%20de%20Proyecto/README.md)
+Fundamentos de Diseño · Universidad Peruana Cayetano Heredia · Equipo 04
 
-## Fuentes de diseño de HORIZON
+## 1. Informe Técnico Final en PDF
 
-| Material | Contenido |
-| --- | --- |
-| [Lista de exigencias](<../../Talleres/Taller_04/Taller_04_L.E..pdf>) | Criterios de funcionamiento, montaje, seguridad y uso. |
-| [Matriz morfológica integrada](<../Entregable%202/Entregable_2_HORIZON%20%287%29_compressed.pdf#page=45>) | Sección 6.7. Alternativas de portadores de funciones y su integración. |
-| [Matriz de Pugh](<../Entregable%202/Entregable_2_HORIZON%20%287%29_compressed.pdf#page=53>) | Sección 8. El informe selecciona el Concepto 2 según la evaluación técnica y económica. |
-| [Taller S10](<../../Talleres/Taller_10/HORIZON%20%E2%80%94%20Taller%20S10.pptx.pdf>) | Esquemático, modelo y documentación dimensional del taller. |
-| [Taller S11](<../../Talleres/Taller_10/ESQUEM%C3%81TICO%20Y%20MODELADO%203D%20CORREGIDOS/HORIZON%20%E2%80%94%20Taller%20S11.pdf>) | Correcciones de M01, electrónica dentro del ensamble y vista explosionada. |
-| [Modelo corregido en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a?renderMode=0&uiState=6aeab944cbc86068d5827ac5) | Enlace directo consignado en Taller S11. |
+*Pendiente de carga del PDF consolidado.* El informe debe incorporar el Entregable 2 corregido, el índice actualizado y los cinco anexos técnicos. Su ruta es `Informe_Tecnico_Entregable_4_HORIZON.pdf` en esta carpeta. [Consultar el Entregable 2](../Entregable%202/README.md).
+
+<!-- Enlace listo para activar al cargar el PDF consolidado.
+[Descargar Informe Técnico Final](Informe_Tecnico_Entregable_4_HORIZON.pdf)
+-->
+
+### Anexos técnicos
+
+1. **Tres bocetos derivados de la matriz morfológica corregida**<br>
+   *Pendiente de carga tras corrección.* [Carpeta de bocetos VFINAL](../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/Bocetos/README.md).
+
+2. **Diagrama de bloques de hardware con clasificación de actuadores**<br>
+   *Pendiente de carga.* [Módulo electrónico VFINAL](../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md).
+
+3. **Diagrama esquemático de la electrónica en EasyEDA**<br>
+   *Completado y cargado.* [Esquemático de HORIZON en PDF](Esquematico_EasyEDA/Esquematico_HORIZON_Grupo04.pdf) · [Láminas de los bloques](Esquematico_EasyEDA/Bloques_del_esquematico_Taller_S11.pdf) · [Índice de bloques](Esquematico_EasyEDA/README.md) · [Módulo electrónico VFINAL](../../../Proyecto/M%C3%B3dulo%20Electr%C3%B3nico/VFINAL/README.md). [Abrir el proyecto editable en EasyEDA Pro](https://u.easyeda.com/join?type=project&key=e0208a9e984bc1ea49f9c1666b53ec42&inviter=e6f5280bd6de4f429c69cd8dc0318dfa). Está pendiente incorporar la exportación nativa descargable.
+
+4. **Modelado 3D con planos de detalle, tres vistas representativas e isométrica**<br>
+   *Completado y cargado.* [Planos de las cinco piezas imprimibles](Modelado_3D/PLANO%20ACOTADO%20DE%20LAS%20PARTES%203D.pdf) · [Vista frontal, lateral, superior e isométrica](Modelado_3D/Vistas_del_ensamble_Taller_S11.pdf#page=1) · [Ensamble STL](Modelado_3D/HORIZON_GRUPO04_COMPLETO.stl) · [Ensamble STEP REV6](Modelado_3D/HORIZON_GRUPO04_REV6_GUIA_SOLDADURA.step). El [índice de modelado 3D](Modelado_3D/README.md) enlaza cada lámina, los [planos P01–P08](Planos%20acotados_HORIZON_Grupo04/README.md), los [perfiles DXF](PLANOS%20DXF/README.md) y los [modelos STL por pieza](Modelos_STL_Piezas/README.md). [Módulo mecánico VFINAL en el repositorio](../../../Proyecto/M%C3%B3dulo%20Mec%C3%A1nico/VFINAL/Onshape/README.md) · [Abrir el proyecto en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a).
+
+5. **Módulo de software con vistas del entorno de usuario vinculado al prototipo**<br>
+   *Pendiente de desarrollo y carga.* [Módulo de software](../../../Proyecto/M%C3%B3dulo%20Software/README.md).
+
+## 2. Organización del repositorio GitHub
+
+La estructura de la plantilla `FdD_Equipo_0X.zip` se distribuye en [Fundamentos de diseño](../../README.md), con entregables y talleres, [Proyecto](../../../Proyecto/README.md), con los módulos mecánico, electrónico y de software, y [Recursos](../../../Recursos/README.md), con las fuentes y material de apoyo. Cada carpeta cuenta con un `README.md` descriptivo para localizar su contenido. Las versiones consolidadas de mecánica y electrónica se reúnen en `VFINAL`.
+
+## 3. Presentación del equipo
+
+El [README principal](../../../README.md) presenta los nombres completos, las carreras, las funciones y las fotografías individuales. La [fotografía grupal](../../../README.md#fotografía-grupal) tiene una sección propia. El equipo reemplazará `grupo.jpeg` por la foto con vestimenta elegante.
