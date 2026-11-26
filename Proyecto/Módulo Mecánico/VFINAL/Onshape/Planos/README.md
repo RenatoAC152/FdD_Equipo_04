@@ -2,7 +2,7 @@
 
 La documentación prevista para Rev E comprende **seis planos de detalle y una vista explosionada**. Usar la envolvente de **193,7 × 172,5 × 179,5 mm** como referencia de la ficha Rev E y confirmar cotas y tolerancias con el CAD antes de fabricar.
 
-[Vista exterior y explosionada publicada en Taller S11](<../../../../../Fundamentos%20de%20dise%C3%B1o/Talleres/Taller_10/ESQUEM%C3%81TICO%20Y%20MODELADO%203D%20CORREGIDOS/HORIZON%20%E2%80%94%20Taller%20S11.pdf#page=12>) · [Modelo corregido en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a?renderMode=0&uiState=6aeab944cbc86068d5827ac5)
+[Vista exterior y explosionada publicada en Taller S11](<../../../../../Fundamentos%20de%20dise%C3%B1o/Talleres/Taller_10/ESQUEM%C3%81TICO%20Y%20MODELADO%203D%20CORREGIDOS/HORIZON%20%E2%80%94%20Taller%20S11.pdf#page=12>) · [Modelo del Taller S11 en Onshape](https://cad.onshape.com/documents/321b273d7372e3bae5d536c1/w/66a005f7546ca4743e6c643c/e/4929a1ed683d08fc480eda4a?renderMode=0&uiState=6aeab944cbc86068d5827ac5)
 
 ## Planos y cortes del Entregable 3
 
